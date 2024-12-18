@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Silvitui
+# Hi, I’m @Silvitui 💙
 
 Welcome to my GitHub profile! I'm Silvia, an enthusiastic beginner in the world of programming. 🚀
 
