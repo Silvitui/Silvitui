@@ -37,7 +37,7 @@ I'm developing a **shift & team management web app**, where I handle frontend ar
 
 ## ☕ Fun Facts
 
-- 🐾 **Animal lover**: My dog **Logan** and my cat **Shiva** are my daily bug fixers.  
+- 🐾 **Animal lover**: My dog **Logan** and my cat **Renata** are my daily bug fixers.  
   Say hi to them! 👇
 
 <p align="center">
