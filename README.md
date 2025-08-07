@@ -32,7 +32,7 @@ I love learning and applying that knowledge to build meaningful, accessible, and
 
 ## ☕ Fun Facts
 
-- 🐾 **Animal lover**: My dog **Logan** and my cat **Renata** are my daily bug fixers.  
+- 🐾 **Animal lover**: My dog **Logan** and my cat **Shiva** are my daily bug fixers.  
   Say hi to them! 👇
 
 <p align="center">
