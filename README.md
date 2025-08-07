@@ -29,11 +29,6 @@ I love learning and applying that knowledge to build meaningful, accessible, and
 
 ---
 
-## 🌱 Currently Working On
-
-I'm developing a **shift & team management web app**, where I handle frontend architecture, UI logic and interactions using Angular.
-
----
 
 ## ☕ Fun Facts
 
