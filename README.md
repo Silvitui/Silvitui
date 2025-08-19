@@ -58,7 +58,7 @@ If you think I’d be a great addition to your team — **let’s chat!**
 ## 🔗 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/silviatuiran/)  
-- [Portfolio] (https://silviatuiranb.es/)
+- [Portfolio](https://silviatuiranb.es/)
 
 ---
 
